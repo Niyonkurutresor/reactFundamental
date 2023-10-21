@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "cityName": "Kigali",
+      "ountry": "Rwanda",
+      "emoje": "🍱",
+      "date": "2026-05-30T15:59:59.138z",
+      "notes": "my favorite city ",
+      "position": {
+        "lat": 1.9441,
+        "lng": 30.0619
+      },
+      "id": 73930321
+    },
+    {
+      "cityName": "Berlin",
+      "ountry": "Germany",
+      "emoje": "🧧",
+      "date": "2022-02-13T15:59:59.138z",
+      "notes": "my favorite city so far",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "ountry": "Spain",
+      "emoje": "🎢📗",
+      "date": "2027-10-31T15:59:59.138z",
+      "notes": "my favorite trip ever 😁😂🤣",
+      "position": {
+        "lat": 33.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73420385
+    }
+  ]
+}
