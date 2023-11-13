@@ -1,0 +1,27 @@
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+.back{
+
+    width: 100px;
+    height: 100px;
+    background:green;
+    display: flex;
+    justify-content:center;
+    align-items:flex-start;
+    animation:rotate 800ms infinite;
+}
+@keyframes rotate{
+    t0{
+        transform: rotate(360deg);
+    }
+}
+.back .element{
+    width: 20px;
+    height:20px;
+    border-radius: 50%;
+    background:black;
+}
